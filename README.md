@@ -4,3 +4,7 @@ Script could be use as banner on SSH terminal by adding the following command in
 ``` cd /home/user/Documents/Bash && ./welcome.sh ```<br/>
 
 
+**ping-sweep.sh** :octocat: <br/>
+Script will discover all the hosts responding to ICMP Request in the target network
+
+
